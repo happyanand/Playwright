@@ -15,7 +15,7 @@ export default defineConfig({
     headless : false,
     screenshot : 'on', 
     video : 'off',
-    actionTimeout : 40e5,
+    actionTimeout : 40e8,
   },
   
 });
